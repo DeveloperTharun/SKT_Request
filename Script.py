@@ -238,20 +238,11 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """ 📂 <a href="https://youtube.com/@SkNetwork2021">{file_name}</a>\n\n"""
 
     IMDB_TEMPLATE_TXT = """
-<b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
-
-🧿 {title}</b>
-
-<b>⭐ {rating} | ⏰ {runtime} Minutes
-📆 {release_date}
-🕵️ {director}
-
-●  {languages}
-●  {genres}
-
-📖 {plot}
-
-💗 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @SKT_Movies</b>
+<b>🧿 ᴛɪᴛʟᴇ : {title}
+🗓️ ʏᴇᴀʀ : {year}
+📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}
+⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : 👇
+⚡ @SKT_Movies </b>
 """
     
 
