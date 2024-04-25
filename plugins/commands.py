@@ -301,7 +301,7 @@ async def start(client, message):
         if is_valid == True:
             await message.reply_text(
                 text=f"<b>Hey {message.from_user.mention}, ʏᴏᴜ ᴀʀᴇ sᴜᴄᴄᴇssғᴜʟʟʏ ᴠᴇʀɪғɪᴇᴅ ғᴏʀ 𝟷𝟸ʜʀs ❤️‍🩹\n\nʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴀɴʏ ᴍᴏᴠɪᴇ ғɪʟᴇs ᴡɪᴛʜᴏᴜᴛ ᴠᴇʀɪғɪʏ ᴜɴᴛɪʟʟ ɴᴇxᴛ 𝟷𝟸ʜʀs.</b>",
-                protect_content=False
+                protect_content=True
             )
             await verify_user(client, userid, token)
         else:
