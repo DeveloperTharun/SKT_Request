@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/50f6f6e28dc
 CODE = (environ.get('CODE', 'https://telegra.ph/file/3851308fd6a50f37283d3.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'ModiJiUrl.com'))
-STREAM_API = (environ.get('STREAM_API', 'e36f2573636d8a5dd3b81b64ce434db80002867a'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'publicearn.com'))
+STREAM_API = (environ.get('STREAM_API', 'acda894b4b12a377de4341efe6232b6e6d0c5ea5'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/TamilSk_Demo'))
 
 # Admins, Channels & Users
