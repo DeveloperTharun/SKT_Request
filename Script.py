@@ -239,10 +239,10 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🧿 ᴛɪᴛʟᴇ : <code>{title}</code>
-🗓️ ʏᴇᴀʀ : {year}
-📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}
+🗓️ ʏᴇᴀʀ : <code>{year}</code>
+🔎 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}
 ⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : 👇
-⚡ @SKT_Movies ™</b>
+⚡ <i>@SKT_Movies</i> ™</b>
 """
     
 
