@@ -156,4 +156,4 @@ async def plan(client, message):
         [InlineKeyboardButton("📲 Send payment screenshot here", user_id=int(5669934860))],
         [InlineKeyboardButton("❌ Close ❌", callback_data="close_data")]
     ]
-    await message.reply_photo(photo="https://telegra.ph/file/734170f40b8169830d821.jpg", caption=script.PREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
+    await message.reply_photo(photo="https://telegra.ph/file/50f6f6e28dc999e16f018.jpg", caption=script.PREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
