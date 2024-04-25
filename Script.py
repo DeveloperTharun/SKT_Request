@@ -238,11 +238,11 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """ 📂 <a href="https://youtube.com/@SkNetwork2021">{file_name}</a>\n\n"""
 
     IMDB_TEMPLATE_TXT = """
-<b>🧿 ᴛɪᴛʟᴇ : {title}
+<b>🧿 ᴛɪᴛʟᴇ : <code>{title}</code>
 🗓️ ʏᴇᴀʀ : {year}
 📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}
 ⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : 👇
-⚡ @SKT_Movies </b>
+⚡ @SKT_Movies ™</b>
 """
     
 
