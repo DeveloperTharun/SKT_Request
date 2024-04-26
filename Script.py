@@ -235,11 +235,11 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ @TamilSk_Moviez - {file_caption}
+    CAPTION = """ <b>@TamilSk_Moviez - {file_caption}
     
-    👉 Subscribe Our YouTube Channel - https://youtube.com/@SkNetwork2021
+ 👉 Subscribe Our YouTube Channel - https://youtube.com/@SkNetwork2021
     
-    ❤️Jᴏɪɴ » @SKT_Movie_Request"""
+ ❤️Jᴏɪɴ » @SKT_Movie_Request</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🧿 ᴛɪᴛʟᴇ : <code>{title}</code>
