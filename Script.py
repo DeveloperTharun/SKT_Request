@@ -235,7 +235,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <a href="https://youtube.com/@SkNetwork2021">{file_name}</a>\n\n"""
+    CAPTION = """ 📂 <a href="https://youtube.com/@SkNetwork2021">{file_caption}</a>\n\n"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🧿 ᴛɪᴛʟᴇ : <code>{title}</code>
