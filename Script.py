@@ -239,7 +239,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
  👉 Subscribe Our YouTube Channel - https://youtube.com/@SkNetwork2021
     
- ❤️Jᴏɪɴ » @SKT_Movie_Request</b>"""
+ ❤️ Movie Request Group - https://t.me/+PX86m0eT9nNlNTc1</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🧿 ᴛɪᴛʟᴇ : <code>{title}</code>
