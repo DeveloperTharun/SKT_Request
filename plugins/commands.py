@@ -544,7 +544,7 @@ async def start(client, message):
             InlineKeyboardButton("⁉️ ʜᴏᴡ ᴛᴏ ᴠᴇʀɪꜰʏ ⁉️", url=HOWTOVERIFY)
         ]]
         await message.reply_text(
-            text="<b>👋🏻 ʜᴇʟʟᴏ,\n\n📌 <u>ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ ᴛʜᴇ ʟɪɴᴋ ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇ ғɪʟᴇs, ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴡɪʟʟ ʙᴇ ᴇxᴘɪʀᴇᴅ ᴀғᴛᴇʀ 𝟷𝟸 ʜᴏᴜʀs.</u>.</b>",
+            text="<b>👋🏻 ʜᴇʟʟᴏ,\n\n📌 <u>ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪғʏ ᴛʜᴇ ʟɪɴᴋ ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇ ғɪʟᴇs, ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴡɪʟʟ ʙᴇ ᴇxᴘɪʀᴇᴅ ᴀғᴛᴇʀ 𝟸4 ʜᴏᴜʀs.</u>.</b>",
             protect_content=True,
             reply_markup=InlineKeyboardMarkup(btn)
         )
