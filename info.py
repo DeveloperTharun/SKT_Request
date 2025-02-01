@@ -30,7 +30,7 @@ CODE = (environ.get('CODE', 'https://telegra.ph/file/3851308fd6a50f37283d3.jpg')
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'ModiJiUrl.com'))
-STREAM_API = (environ.get('STREAM_API', '9c4fff86c127678f4330959d0abc8ea5f7d52813'))
+STREAM_API = (environ.get('STREAM_API', 'e36f2573636d8a5dd3b81b64ce434db80002867a'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/TamilSk_Demo'))
 
 # Admins, Channels & Users
